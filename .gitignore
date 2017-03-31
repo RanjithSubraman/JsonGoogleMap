@@ -38,3 +38,14 @@ captures/
 
 # Keystore files
 *.jks
+
+# Android
+assets/www/app/
+build/
+.gradle/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/libraries/
+.idea/dictionaries/
+build/
+build/
